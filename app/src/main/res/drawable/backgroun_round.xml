@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid
+        android:color="@android:color/white"/>
+    <corners
+        android:radius="@dimen/global_radius" />
+    <padding
+        android:left="@dimen/permission_padding_dialog"
+        android:top="@dimen/permission_padding_dialog"
+        android:right="@dimen/permission_padding_dialog"
+        android:bottom="@dimen/permission_padding_dialog" />
+</shape>

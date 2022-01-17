@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Knowledge</string>
+    <string name="title_movies">Peliculas</string>
+    <string name="title_locations">Ubicaciones</string>
+    <string name="title_profile">Perfil</string>
+
+    <string name="msg_request_location_permission_denied">¡Lo sentimos!\nRechazaste el permiso de ubicación por lo cual no podremos actulizar tu ubicación.</string>
+    <string name="msg_request_location_permission">Knowledge necesita tus permisos de ubicación para mostrar tú información en el mapa.</string>
+    <string name="notification_title">Ubicación actualizada</string>
+    <string name="notification_description">Pueder ver la información actualizada en el mapa.</string>
+    <string name="notification_channel_id">CHANNEL_ID</string>
+    <string name="msg_location_could_not_be_saved">No se pudo guardar tu ubicación</string>
+    <string name="msg_could_not_get_image">No se pudo obtener la imagén</string>
+    <string name="msg_image_uploaded_successfully">Imagen subida exitosamente</string>
+    <string name="msg_error_loading_image">Error al cargar la imagen</string>
+    <string name="msg_request_image_permission">Knowledge necesita tu permiso para actualizar la foto con la camara/almacenamiento</string>
+    <string name="msg_request_image_permission_denied">¡Lo sentimos!\nRechazaste el permiso de cámara/almacenamiento por lo cual no puedes actulizar la iamgén de perfil.</string>
+    <string name="notification_channel_name">knowledge</string>
+    <string name="notification_channel_description">ubicacion actualizada</string>
+    <string name="btn_accept">Aceptar</string>
+
+</resources>

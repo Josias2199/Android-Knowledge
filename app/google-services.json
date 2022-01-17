@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44085452181",
+    "project_id": "knowledge-2baa8",
+    "storage_bucket": "knowledge-2baa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44085452181:android:32017dc0020e49e3522a9c",
+        "android_client_info": {
+          "package_name": "com.joxs.knowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44085452181-t2bg4va2gu8fn62hm07t1cahq690pk9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuJk6ZeK3H0hPdSSDCH3OMU4sEz2loOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44085452181-t2bg4va2gu8fn62hm07t1cahq690pk9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
